@@ -1,8 +1,12 @@
-launcher-last-version|0.0.1
-game-last-version|0.0.1
+launcher-last-version-windows|0.0.1
+launcher-last-version-linux|0.0.1
+game-last-version-windows|0.0.1
+game-last-version-linux|0.0.1
 path-game-windows|https://github.com/WoShiAnima/rhythmspell
 path-game-linux|https://github.com/WoShiAnima/rhythmspell
 path-launcher-windows|https://github.com/WoShiAnima/rhythmspell
 path-launcher-linux|https://github.com/WoShiAnima/rhythmspell
+launcher-last-version-mac|-1
+game-last-version-mac|-1
 path-game-mac|?
 path-launcher-mac|?
