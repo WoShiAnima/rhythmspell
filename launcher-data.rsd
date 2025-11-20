@@ -1,14 +1,14 @@
 launcher-last-version-windows|0.1.1
-game-last-version-windows|0.1.3
-path-game-windows|https://www.dropbox.com/scl/fi/enzbkq14k8dlbh2fihd1o/RS-WINDOWS-0.1.3.zip?rlkey=qujm37v2wpo5i4m88t56dl7vy&st=6ofa8bhq&dl=1
+game-last-version-windows|0.1.4
+path-game-windows|https://www.dropbox.com/scl/fi/rr6j47pkzy7fun20dwupd/RS-WINDOWS-0.1.4.zip?rlkey=ja6m8zm3ibgi78ypex1r1lnwv&st=qvx7gyu8&dl=1
 path-launcher-windows|https://www.dropbox.com/scl/fi/ou9i5r5u4v87sc8pdkyap/RhythmSpellLauncher-0.1.1.exe?rlkey=xptzcqbqoceywexwr3wqksauv&st=yi3przdq&dl=1
-new-features-windows|Version: 0.1.3/nl/Size: 243.12mb/nl/Features:/nl/- Some backend changes/nl/- Some new editor options/nl/- Some bug fixes
+new-features-windows|Version: 0.1.4/nl/Size: 244mb/nl/Features:/nl/- Now you can remove imported levels (your won't lose your stats)/nl/- New editor QoL like rotation/flipping keybinds and a easier Key-hit implementation/nl/- New Gameplay QoL like you can stop holding key-keep almost the end (80%)/nl/- New Automatic mode in Practice Mode, and color lines now are a Practice Mode feature!/nl/- Bug fixes
 
 launcher-last-version-linux|0.1.1
-game-last-version-linux|0.1.3
-path-game-linux|https://www.dropbox.com/scl/fi/kcq8be51651f3kyramag2/RS-LINUX-0.1.3.zip?rlkey=66a2ujfuawscipozgxxai391t&st=1iyhoi8c&dl=1
+game-last-version-linux|0.1.4
+path-game-linux|https://www.dropbox.com/scl/fi/xjdnaui0mr13msv1riqv7/RS-LINUX-0.1.4.zip?rlkey=65nyrj519fjw3ifurllkkhv1e&st=bph198gh&dl=1
 path-launcher-linux|https://www.dropbox.com/scl/fi/dsej7y253110lphf448rq/RhythmSpellLauncher-0.1.1.x86_64?rlkey=fst5yk8fqr5clolbeth74lhzk&st=5b6b2cyh&dl=1
-new-features-linux|Version: 0.1.3/nl/Size: 246.35mb/nl/Features:/nl/- Some backend changes/nl/- Some new editor options/nl/- Some bug fixes
+new-features-linux|Version: 0.1.4/nl/Size: 241mb/nl/Features:/nl/- Now you can remove imported levels (your won't lose your stats)/nl/- New editor QoL like rotation/flipping keybinds and a easier Key-hit implementation/nl/- New Gameplay QoL like you can stop holding key-keep almost the end (80%)/nl/- New Automatic mode in Practice Mode, and color lines now are a Practice Mode feature!/nl/- Bug fixes
 
 launcher-last-version-mac|-1
 game-last-version-mac|-1
