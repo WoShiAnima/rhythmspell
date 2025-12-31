@@ -1,14 +1,14 @@
 launcher-last-version-windows|0.1.1
-game-last-version-windows|0.1.6
-path-game-windows|https://www.dropbox.com/scl/fi/488sikrdx4dudhh7vdnnb/RS-WINDOWS-0.1.6.zip?rlkey=msilctqx9fyjqifj1syyke77h&st=4rqidwte&dl=1
+game-last-version-windows|0.1.7
+path-game-windows|https://www.dropbox.com/scl/fi/cmnovat3cl2r2ohktdxi3/RS-WINDOWS-0.1.7.zip?rlkey=y8y668uh5v9y9q8leqi0efz0k&st=ar4ir1xn&dl=1
 path-launcher-windows|https://www.dropbox.com/scl/fi/ou9i5r5u4v87sc8pdkyap/RhythmSpellLauncher-0.1.1.exe?rlkey=xptzcqbqoceywexwr3wqksauv&st=yi3przdq&dl=1
-new-features-windows|Version: 0.1.6/nl/Size: 262.33mb/nl/Features:/nl/Quick bug fixes: Now custom difficulty is displayed correctly and Play-Stop buttons in song selection section work as intended/nl//nl/0.1.5 features:/nl/- New game modes!!! SS mode, Hard mode, Blind mode and Speed mode!/nl/- New triggers and effects/nl/- Better UI/nl/- In-editor preview/nl/- Lyrics system/nl/- Early/Late time rebalanced/nl/- A lot of bug fixes!
+new-features-windows|Version: 0.1.7/nl/Size: 262.33mb/nl/Features:/nl/- MALACHITE level updated!/nl/- Important bug fixes
 
 launcher-last-version-linux|0.1.1
-game-last-version-linux|0.1.6
-path-game-linux|https://www.dropbox.com/scl/fi/5cewtfte2rktufgm8t2ls/RS-LINUX-0.1.6.zip?rlkey=gb63zx4ylcwjw2dwo2ocnut5x&st=ab5cuf3c&dl=1
+game-last-version-linux|0.1.7
+path-game-linux|https://www.dropbox.com/scl/fi/kfi8ugi0f0s0uheg1freb/RS-LINUX-0.1.7.zip?rlkey=wc9hslzauleqzhka3z35jjxab&st=229yqw18&dl=1
 path-launcher-linux|https://www.dropbox.com/scl/fi/dsej7y253110lphf448rq/RhythmSpellLauncher-0.1.1.x86_64?rlkey=fst5yk8fqr5clolbeth74lhzk&st=5b6b2cyh&dl=1
-new-features-linux|Version: 0.1.6/nl/Size: 259.11mb/nl/Features:/nl/Quick bug fixes: Now custom difficulty is displayed correctly and Play-Stop buttons in song selection section work as intended/nl//nl/0.1.5 features:/nl/- New game modes!!! SS mode, Hard mode, Blind mode and Speed mode!/nl/- New triggers and effects/nl/- Better UI/nl/- In-editor preview/nl/- Lyrics system/nl/- Early/Late time rebalanced/nl/- A lot of bug fixes!
+new-features-linux|Version: 0.1.7/nl/Size: 259.11mb/nl/Features:/nl/- MALACHITE level updated!/nl/- Important bug fixes
 
 launcher-last-version-mac|-1
 game-last-version-mac|-1
