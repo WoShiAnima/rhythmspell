@@ -1,14 +1,14 @@
 launcher-last-version-windows|0.1.2
-game-last-version-windows|0.1.10
-path-game-windows|https://www.dropbox.com/scl/fi/4l1qs4xlcgoxjlb4ik7j1/RS-WINDOWS-0.1.10.zip?rlkey=h8erxrsg86shwmm2yvi7lyr9a&st=n12qv74d&dl=1
+game-last-version-windows|0.1.11
+path-game-windows|https://www.dropbox.com/scl/fi/cw9fg4b9tzyeqjg9kmyty/RS-WINDOWS-0.1.11.zip?rlkey=se5ia0oerrsi6ixwqz0i74kvu&st=g70pubxl&dl=1
 path-launcher-windows|https://www.dropbox.com/scl/fi/ch6e8inrlh3w0yyx7tu55/RhythmSpellLauncher-0.1.2.exe?rlkey=k52b3rwncuglg2rbd4zqvmtfo&st=p57bwzru&dl=1
-new-features-windows|Version: 0.1.9 (0.1.10 fix)/nl/Size: 311mb/nl/Features (0.1.10): NEETwork wasn't working on Windows, now it should work/nl/Features (0.1.9):/nl/- 4 new keys to play! (US QWERTY: ;,./) /nl/- New Keyboard mode in editor! (Keys can be auto-positioned depending on its keyboard position in that mode)/nl/- Now you don't get damage from pressing the wrong key, although keys missed can increase the damage, but if you press a key right, that damage is reduced/nl/- Shift + S can also active Slice Mode/nl/- Key mapping is reworked, now it depends on keyboard position, and you can write what key you want to visualize/nl/- Better performance with a chunk system!/nl/- A new effect: Inverted colors/nl/- A lot (really a lot) of bugs fixed!
+new-features-windows|Version: 0.1.11/nl/Size: 323.73mb/nl/Features:/nl/- Showing time is added!/nl/- Redo-Undo system/nl/- Make keys compatible with actions system/nl/- Epileptic options/nl/- New UI/nl/- And a lot of features more!/nl/- Bug fixes of course
 
 launcher-last-version-linux|0.1.2
-game-last-version-linux|0.1.9
-path-game-linux|https://www.dropbox.com/scl/fi/5yd6sh4nae9mpanp17ocw/RS-LINUX-0.1.9.zip?rlkey=sopomwnkhumk04mg64664zlqm&st=28f8tybk&dl=1
+game-last-version-linux|0.1.11
+path-game-linux|https://www.dropbox.com/scl/fi/0f4u9ctdih8kgi1cwtg9g/RS-LINUX-0.1.11.zip?rlkey=rou8a6vy1x07m89bjwamgxr7d&st=tblx9ac6&dl=1
 path-launcher-linux|https://www.dropbox.com/scl/fi/eudgi4x6lj13vbwyk1vam/RhythmSpellLauncher-0.1.2.x86_64?rlkey=tojugudydvacgvx8c762bnyra&st=ym5yxeac&dl=1
-new-features-linux|Version: 0.1.9/nl/Size: 303.0mb/nl/Features:/nl/- 4 new keys to play! (US QWERTY: ;,./) /nl/- New Keyboard mode in editor! (Keys can be auto-positioned depending on its keyboard position in that mode)/nl/- Now you don't get damage from pressing the wrong key, although keys missed can increase the damage, but if you press a key right, that damage is reduced/nl/- Shift + S can also active Slice Mode/nl/- Key mapping is reworked, now it depends on keyboard position, and you can write what key you want to visualize/nl/- Better performance with a chunk system!/nl/- A new effect: Inverted colors/nl/- A lot (really a lot) of bugs fixed!
+new-features-linux|Version: 0.1.11/nl/Size: 314.07mb/nl/Features:/nl/- Showing time is added!/nl/- Redo-Undo system/nl/- Make keys compatible with actions system/nl/- Epileptic options/nl/- New UI/nl/- And a lot of features more!/nl/- Bug fixes of course
 
 launcher-last-version-mac|-1
 game-last-version-mac|-1
